@@ -1,0 +1,7 @@
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\bin\Debug\ArmstrongNumbers_Range.exe.config
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\bin\Debug\ArmstrongNumbers_Range.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\bin\Debug\ArmstrongNumbers_Range.pdb
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\obj\Debug\ArmstrongNumbers_Range.csproj.AssemblyReference.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\obj\Debug\ArmstrongNumbers_Range.csproj.CoreCompileInputs.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\obj\Debug\ArmstrongNumbers_Range.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_Range\ArmstrongNumbers_Range\obj\Debug\ArmstrongNumbers_Range.pdb

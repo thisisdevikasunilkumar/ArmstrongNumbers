@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\ArmstrongNumbers\\ArmstrongNumbers_Range\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{678F42DE-C0FB-41ED-87E5-EA94958C7802}|ArmstrongNumbers_Range\\ArmstrongNumbers_Range.csproj|d:\\aitrich\\.net\\1. asp.net\\module_2\\1-c sharp\\armstrongnumbers\\armstrongnumbers_range\\armstrongnumbers_range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678F42DE-C0FB-41ED-87E5-EA94958C7802}|ArmstrongNumbers_Range\\ArmstrongNumbers_Range.csproj|solutionrelative:armstrongnumbers_range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\ArmstrongNumbers\\ArmstrongNumbers_Range\\ArmstrongNumbers_Range\\Program.cs",
+              "RelativeDocumentMoniker": "ArmstrongNumbers_Range\\Program.cs",
+              "ToolTip": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\ArmstrongNumbers\\ArmstrongNumbers_Range\\ArmstrongNumbers_Range\\Program.cs",
+              "RelativeToolTip": "ArmstrongNumbers_Range\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:01:57.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
