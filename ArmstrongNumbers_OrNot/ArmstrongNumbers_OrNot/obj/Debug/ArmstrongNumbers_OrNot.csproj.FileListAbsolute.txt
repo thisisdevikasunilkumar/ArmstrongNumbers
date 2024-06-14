@@ -1,0 +1,7 @@
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\bin\Debug\ArmstrongNumbers_OrNot.exe.config
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\bin\Debug\ArmstrongNumbers_OrNot.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\bin\Debug\ArmstrongNumbers_OrNot.pdb
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\obj\Debug\ArmstrongNumbers_OrNot.csproj.AssemblyReference.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\obj\Debug\ArmstrongNumbers_OrNot.csproj.CoreCompileInputs.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\obj\Debug\ArmstrongNumbers_OrNot.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\ArmstrongNumbers\ArmstrongNumbers_OrNot\ArmstrongNumbers_OrNot\obj\Debug\ArmstrongNumbers_OrNot.pdb
